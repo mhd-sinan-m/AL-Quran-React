@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AL-Quran-React/static/css/main.50a293b5.css",
-    "main.js": "/AL-Quran-React/static/js/main.9b07dc08.js",
+    "main.css": "/AL-Quran-React/static/css/main.c6bceae3.css",
+    "main.js": "/AL-Quran-React/static/js/main.250ff624.js",
     "static/js/453.f0e33eac.chunk.js": "/AL-Quran-React/static/js/453.f0e33eac.chunk.js",
     "index.html": "/AL-Quran-React/index.html",
-    "main.50a293b5.css.map": "/AL-Quran-React/static/css/main.50a293b5.css.map",
-    "main.9b07dc08.js.map": "/AL-Quran-React/static/js/main.9b07dc08.js.map",
+    "main.c6bceae3.css.map": "/AL-Quran-React/static/css/main.c6bceae3.css.map",
+    "main.250ff624.js.map": "/AL-Quran-React/static/js/main.250ff624.js.map",
     "453.f0e33eac.chunk.js.map": "/AL-Quran-React/static/js/453.f0e33eac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.50a293b5.css",
-    "static/js/main.9b07dc08.js"
+    "static/css/main.c6bceae3.css",
+    "static/js/main.250ff624.js"
   ]
 }
